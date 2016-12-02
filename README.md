@@ -1,2 +1,5 @@
 # qgis3_UIX_discussion
-Issue list to sum up and discuss UI/UX related issues
+
+Tracker for QGIS 3.0 UI/UX related issues and discussion
+
+No code here just tickets to track and discuss...
